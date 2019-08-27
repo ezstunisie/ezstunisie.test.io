@@ -1,0 +1,10 @@
+@media screen and {max-width : 768px}{
+    #hedha>p ,  #hedha>h1  , hedha>h2 {
+        font-size: 12px;
+    }
+}
+
+.container-fluid{
+    padding-left:  0   important;
+    padding-right: 0  important;
+}
